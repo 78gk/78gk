@@ -4,7 +4,9 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=00D4AA&center=true&vCenter=true&repeat=true&width=720&lines=tau2-Bench+pass%401+%3A+0.8333+%E2%80%94+%2B14.7%25+over+baseline;1%2C000%2B+agents+%7C+single+human+orchestrator;LoRA+Delta+B+%3A+%2B10.46%25+%28p%3D0.018%29+on+held-out+split;Multi-DB+analytics+agent+%7C+100%25+KB+pass+rate;Founder+%40+K2e+Solutions+%C2%B7+Addis+Ababa%2C+Ethiopia" alt="typing"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=900&color=00D4AA&center=true&vCenter=true&repeat=true&width=760&lines=tau2-Bench+pass%401+%3A+0.8333+%E2%80%94+%2B14.7%25+over+baseline;1%2C000%2B+agents+%7C+single+human+orchestrator;LoRA+Delta+B+%3A+%2B10.46%25+%28p%3D0.018%29+on+held-out+split;260-task+ML+eval+benchmark+%E2%80%94+built+from+scratch;Multi-DB+analytics+agent+%7C+100%25+KB+pass+rate;Event-sourced+financial+AI+%E2%80%94+45+event+types;Founder+%40+K2e+Solutions+%C2%B7+Addis+Ababa%2C+Ethiopia;I+build+AI+systems+that+don%27t+just+demo+%E2%80%94+they+ship." alt="typing"/>
+
 </div>
 
 <br/>
@@ -14,6 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirubel_Tewodros-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=00D4AA)](https://linkedin.com/in/kirubel-tewodros)
 [![Substack](https://img.shields.io/badge/Substack-Technical_Writing-0A0E1A?style=for-the-badge&logo=substack&logoColor=FF6B35)](https://kirubel860202.substack.com)
 [![K2e Solutions](https://img.shields.io/badge/K2e_Solutions-Founder-0A0E1A?style=for-the-badge&logo=internetexplorer&logoColor=00B8D9)](https://k2esolution.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=78gk&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/78gk)
 
 </div>
 
@@ -68,16 +71,56 @@ End-to-end agentic systems<br/>Langfuse observability · Event sourcing<br/>Mult
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><h2>0.8333</h2><sub>tau2-Bench pass@1</sub><br/><sup><code>+14.7% vs baseline</code></sup></td>
-<td align="center" width="25%"><h2>$0.52</h2><sub>cost / qualified lead</sub><br/><sup><code>vs $5 challenge envelope</code></sup></td>
-<td align="center" width="25%"><h2>+10.46%</h2><sub>LoRA Delta B</sub><br/><sup><code>p=0.018 · held-out split</code></sup></td>
-<td align="center" width="25%"><h2>1,000+</h2><sub>agents orchestrated</sub><br/><sup><code>single human in the loop</code></sup></td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/EVAL_BENCHMARK-00D4AA?style=flat-square&labelColor=003D30"/>
+<br/><h2>0.8333</h2>
+<sub>tau2-Bench pass@1</sub><br/>
+<sup><code>+14.7% vs baseline · p=0.009</code></sup>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/COST_EFFICIENCY-00D4AA?style=flat-square&labelColor=003D30"/>
+<br/><h2>$0.52</h2>
+<sub>cost / qualified lead</sub><br/>
+<sup><code>vs $5 challenge envelope</code></sup>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/LORA_FINE--TUNE-7C6FFF?style=flat-square&labelColor=1A1040"/>
+<br/><h2>+10.46%</h2>
+<sub>LoRA Delta B</sub><br/>
+<sup><code>p=0.018 · bootstrap n=1,000</code></sup>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AGENT_SCALE-FF6B35?style=flat-square&labelColor=3D1A00"/>
+<br/><h2>1,000+</h2>
+<sub>agents orchestrated</sub><br/>
+<sup><code>single human in the loop</code></sup>
+</td>
 </tr>
 <tr>
-<td align="center"><h2>100%</h2><sub>KB injection pass rate</sub><br/><sup><code>oracle-forge · 21/21</code></sup></td>
-<td align="center"><h2>260</h2><sub>eval tasks designed</sub><br/><sup><code>from scratch</code></sup></td>
-<td align="center"><h2>3,003</h2><sub>SFT training pairs</sub><br/><sup><code>Qwen2.5-0.5B-Instruct</code></sup></td>
-<td align="center"><h2>5</h2><sub>AI agent pipelines</sub><br/><sup><code>The Ledger platform</code></sup></td>
+<td align="center">
+<img src="https://img.shields.io/badge/KNOWLEDGE_BASE-00B8D9?style=flat-square&labelColor=001D3D"/>
+<br/><h2>100%</h2>
+<sub>KB injection pass rate</sub><br/>
+<sup><code>oracle-forge · 21/21</code></sup>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/BENCHMARK_DESIGN-00B8D9?style=flat-square&labelColor=001D3D"/>
+<br/><h2>260</h2>
+<sub>eval tasks designed</sub><br/>
+<sup><code>from scratch · 3 failure modes</code></sup>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/SFT_TRAINING-7C6FFF?style=flat-square&labelColor=1A1040"/>
+<br/><h2>3,003</h2>
+<sub>SFT training pairs</sub><br/>
+<sup><code>Qwen2.5-0.5B-Instruct</code></sup>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/PLATFORM-FFB300?style=flat-square&labelColor=3D2800"/>
+<br/><h2>45</h2>
+<sub>event types in production</sub><br/>
+<sup><code>The Ledger · 5 agent pipelines</code></sup>
+</td>
 </tr>
 </table>
 </div>
@@ -92,31 +135,53 @@ End-to-end agentic systems<br/>Langfuse observability · Event sourcing<br/>Mult
 ![LangChain](https://img.shields.io/badge/LangChain-0A0E1A?style=flat-square&logo=chainlink&logoColor=00D4AA)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-0A0E1A?style=flat-square&logo=anthropic&logoColor=00D4AA)
 ![Langfuse](https://img.shields.io/badge/Langfuse-0A0E1A?style=flat-square&logo=grafana&logoColor=00D4AA)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0A0E1A?style=flat-square&logo=openai&logoColor=00D4AA)
+![AutoGen](https://img.shields.io/badge/AutoGen-0A0E1A?style=flat-square&logo=microsoft&logoColor=00D4AA)
+![CrewAI](https://img.shields.io/badge/CrewAI-0A0E1A?style=flat-square&logo=python&logoColor=00D4AA)
+
+**AI Model Providers**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0A0E1A?style=flat-square&logo=openai&logoColor=FFFFFF)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-0A0E1A?style=flat-square&logo=anthropic&logoColor=FF8C42)
+![Groq](https://img.shields.io/badge/Groq-0A0E1A?style=flat-square&logo=groq&logoColor=F55036)
+![Together AI](https://img.shields.io/badge/Together_AI-0A0E1A?style=flat-square&logo=lightning&logoColor=FFFFFF)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-0A0E1A?style=flat-square&logo=cloudflare&logoColor=00D4AA)
+![Ollama](https://img.shields.io/badge/Ollama-0A0E1A?style=flat-square&logo=llama&logoColor=FFFFFF)
 
 **ML & Fine-tuning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0A0E1A?style=flat-square&logo=pytorch&logoColor=FF6B35)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0E1A?style=flat-square&logo=huggingface&logoColor=FF6B35)
-![LoRA](https://img.shields.io/badge/LoRA_%2F_SFT-0A0E1A?style=flat-square&logo=pytorch&logoColor=FF6B35)
-![Qwen](https://img.shields.io/badge/Qwen2.5-0A0E1A?style=flat-square&logo=alibaba&logoColor=FF6B35)
+![LoRA / PEFT](https://img.shields.io/badge/LoRA_%2F_PEFT-0A0E1A?style=flat-square&logo=pytorch&logoColor=FF6B35)
+![Transformers](https://img.shields.io/badge/Transformers-0A0E1A?style=flat-square&logo=huggingface&logoColor=FF6B35)
+![Qwen2.5](https://img.shields.io/badge/Qwen2.5-0A0E1A?style=flat-square&logo=alibaba&logoColor=FF6B35)
+![TRL](https://img.shields.io/badge/TRL_SFTTrainer-0A0E1A?style=flat-square&logo=python&logoColor=FF6B35)
+
+**Vector & Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E1A?style=flat-square&logo=postgresql&logoColor=7C6FFF)
+![Weaviate](https://img.shields.io/badge/Weaviate-0A0E1A?style=flat-square&logo=weaviate&logoColor=7C6FFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0E1A?style=flat-square&logo=mongodb&logoColor=7C6FFF)
+![Redis](https://img.shields.io/badge/Redis-0A0E1A?style=flat-square&logo=redis&logoColor=7C6FFF)
+![DuckDB](https://img.shields.io/badge/DuckDB-0A0E1A?style=flat-square&logo=duckdb&logoColor=7C6FFF)
+![SQLite](https://img.shields.io/badge/SQLite-0A0E1A?style=flat-square&logo=sqlite&logoColor=7C6FFF)
 
 **Backend & Infrastructure**
 
-![Python](https://img.shields.io/badge/Python-0A0E1A?style=flat-square&logo=python&logoColor=7C6FFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0E1A?style=flat-square&logo=fastapi&logoColor=7C6FFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E1A?style=flat-square&logo=postgresql&logoColor=7C6FFF)
-![Docker](https://img.shields.io/badge/Docker-0A0E1A?style=flat-square&logo=docker&logoColor=7C6FFF)
-![Redis](https://img.shields.io/badge/Redis-0A0E1A?style=flat-square&logo=redis&logoColor=7C6FFF)
+![Python](https://img.shields.io/badge/Python-0A0E1A?style=flat-square&logo=python&logoColor=00B8D9)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0E1A?style=flat-square&logo=fastapi&logoColor=00B8D9)
+![Docker](https://img.shields.io/badge/Docker-0A0E1A?style=flat-square&logo=docker&logoColor=00B8D9)
+![Pydantic](https://img.shields.io/badge/Pydantic-0A0E1A?style=flat-square&logo=python&logoColor=00B8D9)
+![Celery](https://img.shields.io/badge/Celery-0A0E1A?style=flat-square&logo=celery&logoColor=00B8D9)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0E1A?style=flat-square&logo=githubactions&logoColor=00B8D9)
 
 **Frontend & Full-Stack**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0E1A?style=flat-square&logo=typescript&logoColor=00B8D9)
-![React](https://img.shields.io/badge/React-0A0E1A?style=flat-square&logo=react&logoColor=00B8D9)
-![Next.js](https://img.shields.io/badge/Next.js-0A0E1A?style=flat-square&logo=next.js&logoColor=00B8D9)
-![Node.js](https://img.shields.io/badge/Node.js-0A0E1A?style=flat-square&logo=node.js&logoColor=00B8D9)
-![Supabase](https://img.shields.io/badge/Supabase-0A0E1A?style=flat-square&logo=supabase&logoColor=00B8D9)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0E1A?style=flat-square&logo=typescript&logoColor=FFB300)
+![React](https://img.shields.io/badge/React-0A0E1A?style=flat-square&logo=react&logoColor=FFB300)
+![Next.js](https://img.shields.io/badge/Next.js-0A0E1A?style=flat-square&logo=next.js&logoColor=FFB300)
+![Node.js](https://img.shields.io/badge/Node.js-0A0E1A?style=flat-square&logo=node.js&logoColor=FFB300)
+![Supabase](https://img.shields.io/badge/Supabase-0A0E1A?style=flat-square&logo=supabase&logoColor=FFB300)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0E1A?style=flat-square&logo=tailwindcss&logoColor=FFB300)
 
 ---
 
@@ -133,6 +198,28 @@ End-to-end agentic systems<br/>Langfuse observability · Event sourcing<br/>Mult
 <div align="center">
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=78gk&bg_color=0A0E1A&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&area_color=003D30&hide_border=true&custom_title=Contribution%20Activity"/>
 </div>
+
+---
+
+### Trophies
+
+<div align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=78gk&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/78gk/78gk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/78gk/78gk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/78gk/78gk/output/github-contribution-grid-snake-dark.svg" width="96%"/>
+</picture>
+</div>
+
+> **Setup:** Add the [Platane/snk](https://github.com/Platane/snk) action to `.github/workflows/snake.yml` in this repo to activate the snake animation.
 
 ---
 
@@ -170,7 +257,7 @@ End-to-end agentic systems<br/>Langfuse observability · Event sourcing<br/>Mult
 | Tasks | **260** · train=143 / dev=55 / held_out=62 |
 | SFT pairs | **3,003** · Qwen2.5-0.5B-Instruct |
 
-**Stack:** `LoRA/SFT` `HuggingFace` `PyTorch` `Python`
+**Stack:** `LoRA/SFT` `HuggingFace` `PyTorch` `TRL` `Python`
 
 [![Repo](https://img.shields.io/badge/View_Repo-0A0E1A?style=flat-square&logo=github&logoColor=7C6FFF)](https://github.com/78gk/Sales-Agent-Evaluation-Bench)
 
