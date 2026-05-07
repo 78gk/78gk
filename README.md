@@ -219,7 +219,7 @@ End-to-end agentic systems<br/>Langfuse observability · Event sourcing<br/>Mult
 </picture>
 </div>
 
-> **Setup:** Add the [Platane/snk](https://github.com/Platane/snk) action to `.github/workflows/snake.yml` in this repo to activate the snake animation.
+
 
 ---
 
