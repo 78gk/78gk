@@ -26,9 +26,9 @@
 
 ### `> whoami`
 
-I build AI systems that don't just demo — they **ship**.
+I build AI systems that don't just demo they **ship**.
 
-**10 Academy Forward-Deployed Engineer** — 12 weeks of production challenges: each week a novel problem, zero scaffolding, working system by submission. Every project benchmarked, measured, and shipped with observability.
+**10 Academy Forward-Deployed Engineer**  12 weeks of production challenges: each week a novel problem, zero scaffolding, working system by submission. Every project benchmarked, measured, and shipped with observability.
 
 **Founder · [K2e Solutions](https://k2esolution.com)** — Ethiopian tech company delivering custom software, ERPs, and digital products for African businesses.
 
