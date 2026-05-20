@@ -437,6 +437,20 @@ AI dream analysis · Step-by-step guidance · TypeScript
 
 ---
 
+### Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Credential |
+|---|---|---|
+| **Data Science: Machine Learning** | ![HarvardX](https://img.shields.io/badge/HarvardX-0A0E1A?style=flat-square&logo=edx&logoColor=A51C30) PH125.8x | Verified Certificate |
+
+</div>
+
+> Covers supervised & unsupervised learning, model selection, cross-validation, regularisation, and production ML pipelines — directly applied in the [Sales Agent Evaluation Bench](https://github.com/78gk/Sales-Agent-Evaluation-Bench) LoRA fine-tuning work.
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0D2540,100:0A0E1A&height=110&section=footer" width="100%"/>
 <sub><b>Built with precision &nbsp;&middot;&nbsp; Shipped to production &nbsp;&middot;&nbsp; Measured to know it works</b></sub>
