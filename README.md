@@ -149,6 +149,8 @@ End-to-end agentic systems<br/>Langfuse observability · Event sourcing<br/>Mult
 
 **ML & Fine-tuning**
 
+Knowledge: classification · overfitting · train/test methodology · feature engineering · evaluation concepts
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-0A0E1A?style=flat-square&logo=pytorch&logoColor=FF6B35)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0E1A?style=flat-square&logo=huggingface&logoColor=FF6B35)
 ![LoRA / PEFT](https://img.shields.io/badge/LoRA_%2F_PEFT-0A0E1A?style=flat-square&logo=pytorch&logoColor=FF6B35)
@@ -434,20 +436,6 @@ AI dream analysis · Step-by-step guidance · TypeScript
 [![Read on Substack](https://img.shields.io/badge/Read_on_Substack-0A0E1A?style=for-the-badge&logo=substack&logoColor=FF6B35)](https://kirubel860202.substack.com)
 
 > *"Why Your LLM Agent Pays Full Prompt Price Every Time — KV Cache & Prefix Caching Explained"*
-
----
-
-### Certifications
-
-<div align="center">
-
-| Certificate | Issuer | Credential |
-|---|---|---|
-| **Data Science: Machine Learning** | ![HarvardX](https://img.shields.io/badge/HarvardX-0A0E1A?style=flat-square&logo=edx&logoColor=A51C30) PH125.8x | Verified Certificate |
-
-</div>
-
-> Covers supervised & unsupervised learning, model selection, cross-validation, regularisation, and production ML pipelines — directly applied in the [Sales Agent Evaluation Bench](https://github.com/78gk/Sales-Agent-Evaluation-Bench) LoRA fine-tuning work.
 
 ---
 
