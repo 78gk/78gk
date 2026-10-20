@@ -36,6 +36,18 @@ I build AI systems that don't just demo they **ship**.
 
 ---
 
+### Claude for OSS 7-Day Fast-Track Kit
+
+Use these ready-to-run assets to execute a one-week OSS acceleration sprint:
+
+- [7-day playbook](./FAST_TRACK_CLAUDE_OSS_WEEK.md)
+- [Plug-and-play execution guide](./EXECUTE_NOW_CLAUDE_OSS_WEEK.md)
+- [Application text template](./APPLICATION_TEXT_CLAUDE_OSS.md)
+- [Outreach script pack](./OUTREACH_SCRIPT_PACK.md)
+- [Contribution process](./CONTRIBUTING.md)
+
+---
+
 ### What I Build
 
 <table>

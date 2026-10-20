@@ -1,0 +1,46 @@
+name: Good First Issue
+description: Small, beginner-friendly task with clear acceptance criteria.
+title: "[good first issue] "
+labels: ["good first issue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for opening this issue. Keep scope tight and concrete.
+
+  - type: input
+    id: summary
+    attributes:
+      label: Task summary
+      description: One-sentence description of the requested change.
+      placeholder: Add a quickstart section for local setup.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why this task matters.
+      placeholder: New contributors need faster onboarding.
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: Checklist of what must be true to close this issue.
+      value: |
+        - [ ] Criterion 1
+        - [ ] Criterion 2
+        - [ ] Criterion 3
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Relevant files, docs, PRs, or links.
+      placeholder: README.md, docs/setup.md, PR #12
